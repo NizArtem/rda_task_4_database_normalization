@@ -41,5 +41,5 @@ INSERT INTO Warehouse (ID, Name, CountryID, Address)
     
 INSERT INTO ProductInventory (ID,ProductName,WarehouseAmount,WarehouseID)
 	VALUES (1, 'AwersomeProduct', 2, 1);
-INSERT INTO ProductInventory (ID,ProductName,WarehouseAmount,WarehouseName,WarehouseAddress)
+INSERT INTO ProductInventory (ID,ProductName,WarehouseAmount,WarehouseID)
 	VALUES (2, 'AwersomeProduct', 5, 2);
